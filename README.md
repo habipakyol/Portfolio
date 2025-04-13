@@ -5,7 +5,7 @@ Node.js v18.17+ gereklidir.
 
 **1. Depoyu klonla**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/habipakyol/Portfolio
 ```
 
 **2. Bağımlılıkları yükle**
