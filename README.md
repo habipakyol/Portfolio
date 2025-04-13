@@ -1,7 +1,7 @@
 
 # **Başlarken**
 
-Magic Portfolio, [Next.js](https://nextjs.org) için [Once UI](https://once-ui.com) kullanılarak oluşturulmuştur. Node.js v18.17+ gereklidir.
+Node.js v18.17+ gereklidir.
 
 **1. Depoyu klonla**
 ```
